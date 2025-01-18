@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is 0x1bd.</h2>
+<h2 align="left">Hi 👋! My name is kvxd (0x1bd).</h2>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/0x1bd/count.svg?"  />
