@@ -1,12 +1,12 @@
-<h2 align="left">Hi 👋! My name is meo209.</h2>
+<h2 align="left">Hi 👋! My name is 0x1bd.</h2>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/meo209/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/0x1bd/count.svg?"  />
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/meo209/meo209/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/0x1bd/0x1bd/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -60,7 +60,7 @@
   <a href="https://www.youtube.com/channel/UC_fDmCCzbgpavUu98WT02iA" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
-  <a href="https://linksta.cc/@meo209" target="_blank">
+  <a href="https://linksta.cc/@0x1bd" target="_blank">
     <img src="https://linksta.cc/assets/linkstack/images/logo-animated.svg" width="52" height="40" alt="linksta logo"  />
   </a>
 </div>
