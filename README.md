@@ -4,6 +4,26 @@
   <img src="https://profile-counter.glitch.me/0x1bd/count.svg?"  />
 </div>
 
+### What does your username mean?
+[dxvk](https://github.com/doitsujin/dxvk) is an amazing open source project. My username is dxvk backwards.
+
+#### What does 0x1bd mean?
+
+    k: ASCII value 107
+    v: ASCII value 118
+    x: ASCII value 120
+    d: ASCII value 100
+
+Now, let's sum these values:
+
+107 + 118 + 120 + 100 = 445
+
+Now, convert 445 to hexadecimal:
+
+445 in decimal is 0x1bd in hexadecimal.
+
+So, kvxd gives 0x1bd when you sum the ASCII values and convert the result to hexadecimal.
+
 ###
 
 <img src="https://raw.githubusercontent.com/0x1bd/0x1bd/output/snake.svg" alt="Snake animation" />
