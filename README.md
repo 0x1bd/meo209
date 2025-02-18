@@ -1,88 +1,18 @@
-<h2 align="left">Hi 👋! My name is kvxd (0x1bd).</h2>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/0x1bd/count.svg?"  />
-</div>
+## 🌐 Socials:
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@xmeo209) 
 
-### What does your username mean?
-[dxvk](https://github.com/doitsujin/dxvk) is an amazing open source project. My username is dxvk backwards.
+# 💻 Tech Stack:
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=0x1bd&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=0x1bd&theme=github_dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=0x1bd&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-#### What does 0x1bd mean?
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=0x1bd&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-    k: ASCII value 107
-    v: ASCII value 118
-    x: ASCII value 120
-    d: ASCII value 100
+---
+[![](https://visitcount.itsvg.in/api?id=0x1bd&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Now, let's sum these values:
-
-107 + 118 + 120 + 100 = 445
-
-Now, convert 445 to hexadecimal:
-
-445 in decimal is 0x1bd in hexadecimal.
-
-So, kvxd gives 0x1bd when you sum the ASCII values and convert the result to hexadecimal.
-
-###
-
-<img src="https://raw.githubusercontent.com/0x1bd/0x1bd/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="left">
-  <div align="left">
-  <a href="https://kotlinlang.org/"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-    <img width="12" />
-  <a/>
-  
-  <a href="https://www.jetbrains.com/idea/"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="jetbrains logo"  />
-    <img width="12" />
-  <a/>
-    
-  <a href="https://www.java.com/"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-    <img width="12" />
-  <a/>
-  
-  <a href="https://linux.org/"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-    <img width="12" />
-  <a/>
-  
-  <a href="https://git-scm.com/"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-    <img width="12" />
-  <a/>
-  
-
-  
-  <a href="https://code.visualstudio.com/"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-    <img width="12" />
-  <a/>
-  
-  <a href="https://www.raspberrypi.com/"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="vscode logo"  />
-    <img width="12" />
-  <a/>
-</div>
-</div>
-
-###
-
-<div align="left">
-  <a href="https://discord.com/users/1005779752369524768" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.youtube.com/channel/UC_fDmCCzbgpavUu98WT02iA" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-  <a href="https://linksta.cc/@0x1bd" target="_blank">
-    <img src="https://linksta.cc/assets/linkstack/images/logo-animated.svg" width="52" height="40" alt="linksta logo"  />
-  </a>
-</div>
-
-###
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
